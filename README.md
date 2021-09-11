@@ -18,3 +18,6 @@ If the instrument is a computer the _mac_ field is populated.
 If the instrument is a freezer the _container_ fields are populated.  
 ### container
 `/container/<container uuid>`
+
+## Seeding the db with data
+Add any seed data to db/setup.sql. Example seed data is provided.
